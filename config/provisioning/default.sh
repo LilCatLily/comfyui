@@ -37,6 +37,7 @@ CHECKPOINT_MODELS=(
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     "https://civitai.com/api/download/models/914390"
     "https://civitai.com/api/download/models/832353"
+    "https://civitai.com/api/download/models/953264"
 )
 
 UNET_MODELS=(
