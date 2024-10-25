@@ -21,6 +21,13 @@ PIP_PACKAGES=(
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/alexopus/ComfyUI-Image-Saver"
+    "https://github.com/jitcoder/lora-info"
+    
+    
 )
 
 CHECKPOINT_MODELS=(
@@ -28,6 +35,8 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+    "https://civitai.com/api/download/models/914390"
+    "https://civitai.com/api/download/models/832353"
 )
 
 UNET_MODELS=(
@@ -35,7 +44,7 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
-    #"https://civitai.com/api/download/models/16576"
+    "https://civitai.com/api/download/models/972770"
 )
 
 VAE_MODELS=(
