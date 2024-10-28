@@ -45,6 +45,18 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/530596"
     "https://civitai.com/api/download/models/533085"
     "https://civitai.com/api/download/models/558128"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_1.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_3.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_5.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_7.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_9.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_11.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_13.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_15.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_17.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_19.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_27/LilyCat_epoch_20.safetensors"
+    
 )
 
 VAE_MODELS=(
