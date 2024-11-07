@@ -32,28 +32,28 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/914390"
     "https://civitai.com/api/download/models/832353"
     "https://civitai.com/api/download/models/953264"
-    "https://civitai.com/api/download/models/782002"
 )
 
 UNET_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_1.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_10.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_13.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_16.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_19.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_22.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_25.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_28.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_31.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_34.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_37.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_4.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_40.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_43.safetensors"
-    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_7.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000010.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000013.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000016.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000019.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000022.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000025.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000028.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000031.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000034.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000037.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000040.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000043.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000046.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat-000049.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/1024643/LilyCat.safetensors"
+    
     
 )
 
