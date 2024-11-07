@@ -32,19 +32,13 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/914390"
     "https://civitai.com/api/download/models/832353"
     "https://civitai.com/api/download/models/953264"
+    "https://civitai.com/api/download/models/782002"
 )
 
 UNET_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/972770"
-    "https://civitai.com/api/download/models/717403"
-    "https://civitai.com/api/download/models/539244"
-    "https://civitai.com/api/download/models/520909"
-    "https://civitai.com/api/download/models/530596"
-    "https://civitai.com/api/download/models/533085"
-    "https://civitai.com/api/download/models/558128"
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_1.safetensors"
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_10.safetensors"
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/10_30/LilLilyCat_epoch_13.safetensors"
