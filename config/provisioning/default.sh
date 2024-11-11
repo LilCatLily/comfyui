@@ -58,6 +58,27 @@ LORA_MODELS=(
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/936876/versionId.1048871/LilyCat_epoch_13.safetensors"
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/936876/versionId.1048871/LilyCat_epoch_14.safetensors"
     "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/Pony/936876/versionId.1048871/LilyCat_epoch_15.safetensors"
+
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000001.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000003.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000005.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000007.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000009.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000011.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000013.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000015.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000017.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000019.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000021.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000023.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000027.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000029.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000031.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000033.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000035.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000037.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat-000039.safetensors"
+    "https://huggingface.co/LittleLilyCat/LilyCat-Character/resolve/main/training/SDXL/1025152/LilyCat_epoch_41.safetensors"
 )
 
 VAE_MODELS=(
